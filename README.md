@@ -58,31 +58,31 @@ Set Up the Database
   Import the provided database.sql file into the database.
   Configure Database Connection
 
-Open the dbconnect.php file in the project folder.
-Update the database credentials (host, username, password, database name).
-Run the Application
+   Open the dbconnect.php file in the project folder.
+   Update the database credentials (host, username, password, database name).
+   Run the Application
 
-Move the project folder to your web server’s root directory (htdocs for XAMPP).
-Start the server and access the application in your browser.
+   Move the project folder to your web server’s root directory (htdocs for XAMPP).
+   Start the server and access the application in your browser.
 
 Usage
 
 Students
 
-Register and log in to your account.
-Search for hostels and apply filters.
-View contact details for listings after registration.
+   Register and log in to your account.
+   Search for hostels and apply filters.
+   View contact details for listings after registration.
 
 Property Owners
 
-Register as a property owner.
-Subscribe to list your hostels on the platform.
-Add, edit, or remove your property listings.
+   Register as a property owner.
+   Subscribe to list your hostels on the platform.
+   Add, edit, or remove your property listings.
 
-dmins
+Admins
 
-Log in using admin credentials.
-Approve or reject hostel listings and monitor user activity.
+   Log in using admin credentials.
+   Approve or reject hostel listings and monitor user activity.
 
 Acknowledgments
 
