@@ -1,4 +1,4 @@
-#StayFinder - University Hostel Renting Website 
+StayFinder - University Hostel Renting Website 
 
 StayFinder is a web application development project using pure HTML, CSS JS, PHP and MySQL. This project is a dynamic web application designed to help students find suitable hostel accommodations while enabling property owners to list and manage their rental properties. The system ensures a user-friendly interface for seamless interactions among students, property owners, and administrators.  
 
@@ -51,7 +51,7 @@ StayFinder is a web application development project using pure HTML, CSS JS, PHP
 1. **Clone or Download the Repository**  
    ```bash  
    git clone https://github.com/your-repo/university-hostel-renting  
-#Set Up the Database
+Set Up the Database
 
   Open phpMyAdmin (or any MySQL management tool).
   Create a new database (e.g., hostel_renting).
@@ -65,26 +65,26 @@ Run the Application
 Move the project folder to your web server’s root directory (htdocs for XAMPP).
 Start the server and access the application in your browser.
 
-##Usage
+Usage
 
-#Students
+Students
 
 Register and log in to your account.
 Search for hostels and apply filters.
 View contact details for listings after registration.
 
-#Property Owners
+Property Owners
 
 Register as a property owner.
 Subscribe to list your hostels on the platform.
 Add, edit, or remove your property listings.
 
-#Admins
+dmins
 
 Log in using admin credentials.
 Approve or reject hostel listings and monitor user activity.
 
-#Acknowledgments
+Acknowledgments
 
 This project was developed with the collaborative efforts of:
 
