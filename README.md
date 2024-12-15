@@ -50,7 +50,7 @@ StayFinder is a web application development project using pure HTML, CSS JS, PHP
 
 1. **Clone or Download the Repository**  
    ```bash  
-   git clone https://github.com/your-repo/university-hostel-renting  
+   git@github.com:SachiniUresha/StayFinder.git
 Set Up the Database
 
   Open phpMyAdmin (or any MySQL management tool).
